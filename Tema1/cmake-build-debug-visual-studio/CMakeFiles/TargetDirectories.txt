@@ -1,0 +1,3 @@
+C:/Users/Alumnos/Desktop/SFisica/Tema1/cmake-build-debug-visual-studio/CMakeFiles/Tema1.dir
+C:/Users/Alumnos/Desktop/SFisica/Tema1/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+C:/Users/Alumnos/Desktop/SFisica/Tema1/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
