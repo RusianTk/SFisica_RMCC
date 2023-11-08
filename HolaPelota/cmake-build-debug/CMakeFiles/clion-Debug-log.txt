@@ -1,0 +1,11 @@
+"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -DCMAKE_TOOLCHAIN_FILE=C:\Users\Alumnos\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake -G Ninja -S C:\Users\Alumnos\Desktop\sFISICA\HolaPelota -B C:\Users\Alumnos\Desktop\sFISICA\HolaPelota\cmake-build-debug
+-- Found SFML 2.6.0 in C:/Users/Alumnos/.vcpkg-clion/vcpkg/installed/x64-windows/share/sfml
+-- Configuring done (0.5s)
+-- Generating done (0.0s)
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    CMAKE_TOOLCHAIN_FILE
+
+
+-- Build files have been written to: C:/Users/Alumnos/Desktop/sFISICA/HolaPelota/cmake-build-debug
